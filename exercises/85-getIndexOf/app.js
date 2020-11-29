@@ -1,1 +1,6 @@
-// Write your function here
+getIndexOf = () => {
+
+    var index = ["a", "I am a string"];
+
+    return ([1].length, 0);
+}

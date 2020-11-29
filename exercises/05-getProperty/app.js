@@ -1,3 +1,4 @@
-function getProperty(obj, key) {
-  // your code here
-}
+function getProperty(player, football) {
+
+ return player[football]
+};

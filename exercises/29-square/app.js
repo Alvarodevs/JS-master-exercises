@@ -1,1 +1,6 @@
-// Write your function here
+function square (a) {    
+    
+    var result = (a * a);
+
+    return result;
+};
